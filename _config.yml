@@ -1,0 +1,13 @@
+title: 'ai云充靠谱吗 2026：公开能查到什么、代充怎么自己核对'
+description: 'ai云充靠谱吗：公开能查到和查不到的信息、任何代充下单前核对 7 件事、粘贴登录信息怎么防风险；对照瑶瑶ai训练师商城 ChatGPT Plus ¥129（店主自营）'
+lang: zh-CN
+theme: jekyll-theme-cayman
+exclude:
+  - LICENSE
+
+# 正本是 GitHub 仓库页，网页版的 canonical 指回 github.com 地址（jekyll-seo-tag 读 canonical_url）
+defaults:
+  - scope:
+      path: ""
+    values:
+      canonical_url: "https://github.com/yaoyao-chat/aiyunchong"
